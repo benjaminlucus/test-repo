@@ -1,5 +1,5 @@
 const helloFunction = ()=>{
-    console.log("Hello World");
+   console.error("404 NOT_FOUND [SYSTEM_ERROR] by friend 1")
 }
 
 helloFunction();
